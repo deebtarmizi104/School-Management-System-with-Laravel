@@ -1,1 +1,1 @@
-# School-Management-System-with-Laravel
+# School Management System with Laravel
